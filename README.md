@@ -13,9 +13,9 @@
 
 <details align="center">
 
-<summary> <b> <samp> Light bonfire </samp></b></summary>
+<summary> <b> <samp> toca para continuar :v </samp></b></summary>
 <samp>
- <b><h2 style="color: #fc6203"> SIGUEME &nbsp; EN MIS REDES !</h2> </b>
+ <b><h2 style="color: #fc6203">SIGUEME &nbsp;EN MIS REDES !</h2> </b>
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
