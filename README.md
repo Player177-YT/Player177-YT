@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hola chicos ! soy <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">player177</a></b>.
+    Hola chicos ! soy <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Player177-YT">player177</a></b>.
     <br>soy administrador de Terrapapus y Terraria y más grupo de facebook.<br>
 
 </samp>
