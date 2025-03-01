@@ -30,7 +30,7 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://youtube.com/@estimadojugador177?si=h9CYZjfbDNkKxNqw">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
@@ -43,6 +43,3 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
 </details>
 
 ----
-Credits: [TanZng](https://github.com/TanZng)
-
-Last Edited on: 31/08/202
