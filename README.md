@@ -20,7 +20,7 @@
   &nbsp; 
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://youtube.com/@estimadojugador177?si=h9CYZjfbDNkKxNqw">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="20px" alt="YouTube"></a>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="40px" alt="YouTube"></a>
 
 
 </samp>
